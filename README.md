@@ -1,4 +1,5 @@
-# Basic VLAN Setup Homelab Guide
+# DHCP Server setup with Inter-VLAN Routing
+
 ## Objectives
 - This setup will allow you to understand how devices in a network can automatically
  obtain IP addresses and other network configuration details from a DHCP server
