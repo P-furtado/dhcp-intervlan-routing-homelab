@@ -1,4 +1,6 @@
 # DHCP Server setup with Inter-VLAN Routing
+## Download Packet Tracer LAb
+[Download Part 3: DHCP Server Setup with Inter-VLAN Routing](DHCP%20Sever%20Setup%20w%20Inter%20VLAN%20Routing.pkt)
 
 ## Objectives
 - This setup will allow you to understand how devices in a network can automatically
